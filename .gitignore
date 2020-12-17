@@ -11,3 +11,4 @@ node_modules
 .idea
 npm-debug.log.*
 .vercel
+__pycache__
